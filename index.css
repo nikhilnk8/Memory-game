@@ -1,0 +1,18 @@
+.grid{
+    border: 5px solid black;
+    display: inline-flex;
+    max-width: 453px;
+    width: 100%;    
+    flex-wrap: wrap;
+    flex-flow: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.grid-item{
+    border: 2px solid white;
+}
+
+body{
+    background-color: aquamarine;
+}
